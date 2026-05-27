@@ -97,7 +97,6 @@ High-level KPIs at a glance:
 
 ### Role-Based Risk Insights
 ![Role Risk](assets/03_Job_Role_Risk_Analysis.png)
-<img src="assets/03_Job_Role_Risk_Analysis.png" width="700"/>
 - **Sales Executives** (~180) and **Laboratory Technicians** (~160) are the top two roles by high-risk employee count
 - Slicers allow filtering by Age Group, Department, Gender, and OverTime status
 
