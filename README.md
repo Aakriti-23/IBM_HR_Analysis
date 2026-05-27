@@ -188,7 +188,7 @@ Open `IBM_HR_Analytics_Dashboard.pbix` in **Power BI Desktop** (free download fr
 
 ## Author
 
-**Aakriti** - [GitHub Profile](https://github.com/Aakriti-23)
+**Aakriti Yadav** - [GitHub Profile](https://github.com/Aakriti-23)
 
 ---
 
