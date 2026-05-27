@@ -1,4 +1,4 @@
-# IBM HR Analytics — Employee Attrition Risk Analysis
+# IBM HR Analytics - Employee Attrition Risk Analysis
 
 > Predicting and visualizing employee attrition risk using machine learning, SQL analytics, and an interactive Power BI dashboard.
 
@@ -8,7 +8,7 @@
 
 This project analyzes the **IBM HR Employee Attrition dataset** to identify employees at high risk of leaving the organization. It combines **exploratory data analysis**, **machine learning-based attrition probability scoring**, **SQL-based business intelligence queries**, and a **multi-page Power BI dashboard** to deliver actionable HR insights.
 
-The end goal is to help HR teams proactively identify at-risk talent across departments, job roles, and age groups — before attrition occurs.
+The end goal is to help HR teams proactively identify at-risk talent across departments, job roles, and age groups - before attrition occurs.
 
 ---
 
@@ -107,7 +107,7 @@ High-level KPIs at a glance:
 
 - **Adult Employees (30–45)** account for **46.8%** of predicted attrition share
 - **Experienced Employees (45–55)** contribute **23.1%**
-- High-risk count drops sharply from Adult → Young employees
+- High-risk count drops sharply from Adult -> Young employees
 
 ---
 
@@ -188,7 +188,7 @@ Open `IBM_HR_Analytics_Dashboard.pbix` in **Power BI Desktop** (free download fr
 
 ## Author
 
-**Aakriti** — [GitHub Profile](https://github.com/Aakriti-23)
+**Aakriti** - [GitHub Profile](https://github.com/Aakriti-23)
 
 ---
 
